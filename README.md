@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Nico! I'm a technology enthusiast, passionate software engineer with a strong focus on standards, best practices and architecture … and current AI student @ JKU. 🤖 
+I'm Nico! I'm a passionate software & machine learning engineer with a strong focus on standards, best practices and architecture. 😎
+I love working on challenging projects, which allow me to combine both of my chosen fields to create scalable and intelligent software solutions. 🤖
 
 Also a Linux nerd. 🤓
 
