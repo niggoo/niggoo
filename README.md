@@ -6,8 +6,8 @@ I love working on challenging projects, which allow me to combine both of my cho
 
 Also a Linux nerd. 🤓
 
-‼️ If you'd like to check out my most up to date repos, visit my [profile on codeberg.org ⛰️](https://codeberg.org/niggoo) - I host most of my stuff there ‼️
+‼️ If you'd like to check out my most up to date repos, visit my [profile on gitlab.com 🦊]([https://codeberg.org/niggoo](https://gitlab.com/niggoo)) - I host most of my stuff there ‼️
 
 I also do *not-so-regular-but-still* [blogging about various topics](https://www.auroria.io). ⌨️
 
-If you wanna connect, hit me up on [Mastodon](https://mastodon.social/@niggoo). 🐘 📢
+If you wanna connect, hit me up on [Mastodon](https://mastodon.social/@niggoo) 🐘 or [Bluesky](https://bsky.app/profile/niggoo.auroria.io)🦋.  📢
