@@ -10,4 +10,4 @@ Also a Linux nerd. 🤓
 
 I also do *not-so-regular-but-still* [blogging about various topics](https://www.auroria.io). ⌨️
 
-If you wanna connect, hit me up on [Mastodon](https://mastodon.social/@niggoo) 🐘 or [Bluesky](https://bsky.app/profile/niggoo.auroria.io)🦋.  📢
+If you wanna connect, hit me up on [Mastodon](https://mastodon.social/@niggoo) 🐘 or [Bluesky](https://bsky.app/profile/niggoo.auroria.io) 🦋
